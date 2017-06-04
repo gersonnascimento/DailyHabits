@@ -1,0 +1,10 @@
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe.config
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\bin\Debug\DailyHabits.pdb
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csprojResolveAssemblyReference.cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Form1.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Inicio.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Properties.Resources.resources
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csproj.GenerateResource.Cache
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.exe
+c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.pdb
