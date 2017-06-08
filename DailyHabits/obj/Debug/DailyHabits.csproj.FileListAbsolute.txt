@@ -8,3 +8,13 @@ c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\Daily
 c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csproj.GenerateResource.Cache
 c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.exe
 c:\users\gerso\onedrive\documentos\visual studio 2015\Projects\DailyHabits\DailyHabits\obj\Debug\DailyHabits.pdb
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe.config
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.pdb
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csprojResolveAssemblyReference.cache
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Form1.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Inicio.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Properties.Resources.resources
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csproj.GenerateResource.Cache
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.exe
+C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.pdb
