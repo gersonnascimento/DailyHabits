@@ -11,7 +11,7 @@ using System.Windows.Forms;
 namespace DailyHabits
 {
 
-    public partial class Form1 : Form
+    public partial class ListHabitos : Form
     {
         public int[] valores = new int[5];
         public string[] habitos = new string[5];
@@ -166,7 +166,7 @@ namespace DailyHabits
             ver4();
             ver5();
         }
-        public Form1()
+        public ListHabitos()
         {
             InitializeComponent();
         }

@@ -12,7 +12,7 @@ namespace DailyHabits
 {
     public partial class Inicio : Form
     {
-        Form1 form = new Form1();
+        ListHabitos form = new ListHabitos();
         public string[] habitos = new string[5];
         public int control = 0;
         public Inicio()

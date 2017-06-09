@@ -18,3 +18,13 @@ C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\Dail
 C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csproj.GenerateResource.Cache
 C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.exe
 C:\Users\gerso\OneDrive\Documentos\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.pdb
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe.config
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.exe
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.pdb
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.exe
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\bin\Debug\DailyHabits.pdb
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.ListHabitos.resources
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Inicio.resources
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.Properties.Resources.resources
+E:\Executaveis liberados\GitHub\DailyHabits\DailyHabits\obj\Debug\DailyHabits.csproj.GenerateResource.Cache
